@@ -1,9 +1,8 @@
 
-###  DATE: 28/02/2024
+
 
 ###  NAME: A K PREETHI
-###  ROLL NO :212223230156
-###  DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+###  REG NO :212223230156
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
